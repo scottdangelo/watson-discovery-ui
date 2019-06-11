@@ -4,7 +4,7 @@
 
 # Develop a fully featured web app built on the Watson Discovery Service
 
-In this code pattern, we walk you through a working example of a web application that queries and manipulates data from the Watson Discovery Service. This web app contains multiple UI components that you can use as a starting point for developing your own Watson Discovery Service applications. 
+In this code pattern, we walk you through a working example of a web application that queries and manipulates data from the Watson Discovery Service. This web app contains multiple UI components that you can use as a starting point for developing your own Watson Discovery Service applications.
 
 The main benefit of using the Watson Discovery Service is its powerful analytics engine that provides cognitive enrichments and insights into your data. This app provides examples of how to showcase these enrichments through the use of filters, lists and graphs. The key enrichments that we will focus on are:
 
@@ -14,7 +14,7 @@ The main benefit of using the Watson Discovery Service is its powerful analytics
 * Keywords - important topics typically used to index or search the data.
 * Sentiment - the overall positive or negative sentiment of each document.
 
-For this code pattern, we will be using data that contains reviews of Airbnb properties located in the Austin, TX area. 
+For this code pattern, we will be using data that contains reviews of Airbnb properties located in the Austin, TX area.
 
 When the reader has completed this code pattern, they will understand how to:
 
@@ -64,7 +64,7 @@ For more information about this feature, read about it [here](https://cloud.ibm.
 * [Node.js](https://nodejs.org/): An open-source JavaScript run-time environment for executing server-side JavaScript code.
 * [React](https://reactjs.org/): A JavaScript library for building User Interfaces.
 * [Express](https://expressjs.com) - A popular and minimalistic web framework for creating an API and Web server.
-* [Semantic UI React](https://react.semantic-ui.com/): React integration of Semantic UI components. 
+* [Semantic UI React](https://react.semantic-ui.com/): React integration of Semantic UI components.
 * [Chart.js](https://www.chartjs.org/): JavaScript charting package.
 * [Jest](https://jestjs.io/): A JavaScript test framework.
 
@@ -78,7 +78,7 @@ Use the ``Deploy to IBM Cloud`` button **OR** create the services and run locall
 
 ## Deploy to IBM Cloud
 
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/IBM/watson-discovery-ui.git)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/scottdangelo/watson-discovery-ui.git)
 
 1. Press the above ``Deploy to IBM Cloud`` button and then click on ``Deploy``.
 
