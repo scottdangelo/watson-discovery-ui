@@ -5,7 +5,7 @@ declared-services:
     plan: advanced
 applications:
 - path: .
-  name: watson-discovery-ui
+  name: watson-discovery-ui-sda
   buildpack: sdk-for-nodejs
   memory: 256M
   instances: 1
