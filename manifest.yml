@@ -2,7 +2,7 @@
 declared-services:
   wdui-discovery-service:
     label: discovery
-    plan: lite
+    plan: advanced
 applications:
 - path: .
   name: watson-discovery-ui
